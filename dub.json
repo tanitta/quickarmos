@@ -1,0 +1,13 @@
+{
+	"name": "quickarmos",
+	"authors": [
+		"tanitta"
+	],
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2017, tanitta",
+	"license": "proprietary", 
+    "dependencies": {
+        "armos": {"path":"../armos"},
+        "rx": ">=0.4.0"
+	}
+}
